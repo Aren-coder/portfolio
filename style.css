@@ -1,0 +1,15 @@
+* {
+    text-decoration: none !important;
+}
+
+.img-fixed {
+    background-image: url(https://templatemo.com/templates/templatemo_569_edu_meeting/assets/images/apply-bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.img-fixed-two {
+    background-image: url(https://templatemo.com/templates/templatemo_569_edu_meeting/assets/images/facts-bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
